@@ -1,4 +1,4 @@
-# Stenno Studio
+# Stego Studio
 
 **Carter Smith** *(CS)* - smit3cg@mail.uc.edu
 
