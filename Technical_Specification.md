@@ -239,10 +239,3 @@ Changes produced & Pending \\
 \hline
 \end{longtable}
 \endgroup
-
-## References <!-- nopdf -->
-- [Requirements Document](Requirements_Document.md) <!-- nopdf -->
-- [User Stories and Use Cases](User_Stories.md) <!-- nopdf -->
-- [D0 High-Level Design](Design_Diagrams/D0_High_Level_Design.md) <!-- nopdf -->
-- [D1 Detailed Design](Design_Diagrams/D1_Detailed_Design.md) <!-- nopdf -->
-- [D2 Detailed Design](Design_Diagrams/D2_Detailed_Design.md) <!-- nopdf -->
