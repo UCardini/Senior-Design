@@ -126,9 +126,9 @@ Source images & N/A & CC0-1.0 & Permissive & None; attribution optional \\
 
 **External tools:**
 
-- stegano (GPL-3.0-or-later), https://github.com/cedricbonhomme/Stegano, PNG LSB embedding (E1a)
-- outguess (BSD; LICENSE), https://github.com/crorvick/outguess, JPEG DCT embedding (E1b)
-- Aletheia (MIT), https://github.com/daniellerch/aletheia, steganalysis detection (E2)
+- stegano (GPL-3.0-or-later), https://github.com/cedricbonhomme/Stegano/tree/master?tab=GPL-3.0-1-ov-file, PNG LSB embedding (E1a)
+- outguess (BSD; LICENSE), https://github.com/resurrecting-open-source-projects/outguess/blob/master/LICENSE, JPEG DCT embedding (E1b)
+- Aletheia (MIT), https://github.com/cedricbonhomme/Stegano/tree/master, detection (E2)
 
 **Previously considered tools (not used):**
 
