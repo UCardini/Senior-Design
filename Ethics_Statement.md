@@ -101,7 +101,7 @@ NumPy & 1.26.4 & BSD-3-Clause & Permissive & Retain copyright notice; no endorse
 \hline
 stegano (E1a) & 0.11.3 & GPL-3.0-or-later & Copyleft & Comply; invoked as subprocess only \\
 \hline
-outguess (E1b) & 0.2.0 & BSD (verify LICENSE) & Permissive & Retain copyright notice \\
+outguess (E1b) & 0.2.0 & BSD (LICENSE) & Permissive & Retain copyright notice \\
 \hline
 Aletheia (E2) & 0.3.0 & MIT & Permissive & Retain copyright notice \\
 \hline
@@ -127,7 +127,7 @@ Source images & N/A & CC0-1.0 & Permissive & None; attribution optional \\
 **External tools:**
 
 - stegano (GPL-3.0-or-later), https://github.com/cedricbonhomme/Stegano, PNG LSB embedding (E1a)
-- outguess (BSD; verify LICENSE), https://github.com/crorvick/outguess, JPEG DCT embedding (E1b)
+- outguess (BSD; LICENSE), https://github.com/crorvick/outguess, JPEG DCT embedding (E1b)
 - Aletheia (MIT), https://github.com/daniellerch/aletheia, steganalysis detection (E2)
 
 **Previously considered tools (not used):**
